@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Puck24:Lds1!Lds1!@cluster0-rxsb6.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "284f5d770da1b86019fa",
+    "githubSecret": "5254ce5d6782c390974dcb164c665eb888110b73"
+}
